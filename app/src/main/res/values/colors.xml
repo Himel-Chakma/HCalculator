@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AAAAAA</color>
+    <color name="colorAccent">#FFA726</color>
+    <color name="white">#FFFFFF</color>
+    <color name="buttonBackground">#AAAAAA</color> <!-- Background for regular buttons -->
+    <color name="operatorButtonBackground">#FFA726</color> <!-- Background for operator buttons -->
+    <color name="borderColor">#CCCCCC</color> <!-- Border color for buttons -->
+</resources>
